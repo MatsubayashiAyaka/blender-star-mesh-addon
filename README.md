@@ -58,7 +58,7 @@ Blender 3.6以降で動作する「星形メッシュ（2D/3D）」生成アド�
 ## プリセット保存先について
 
 プリセットは外部ファイルではなく、Blender 内の **Scene Collection** に JSON として保存されます。  
-つまり **.blend に保存するとプリセットも一緒に保存**されます。
+**.blend に保存するとプリセットも一緒に保存**されます。
 
 - 保存場所：`Scene Collection` のカスタムプロパティ  
 - キー：`STAR_MESH_CREATOR_PRESETS_JSON`
